@@ -37,7 +37,7 @@ Evaluar el desempeño de modelos de regresión como KNN, Árboles de Decisión, 
 
 ## 🚀 Abrir en Google Colab
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/Jesus-Pacheco-Romero/dengue-prediction/blob/main/DengAI_prediccion_casos_dengue.ipynb](https://colab.research.google.com/github/Jesus-Pacheco-Romero/dengue-prediction/blob/main/Dengue.ipynb))
+🔗 [Abrir el notebook en Google Colab](https://colab.research.google.com/drive/1L_SJ2WgofJct7qQddisP0czA4pPaSNvu#scrollTo=Ti5Wnz3cgkRD)
 
 ## 📸 Visual
 
